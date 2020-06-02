@@ -7,9 +7,7 @@ public class Exercicio001 {
 
     public static void main(String[] args) {
 
-        Exercicio001 e = new Exercicio001();
-
-        e.checaLong(1563385317992L);
+        Date novaData = new Date();
 
 
     }

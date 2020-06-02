@@ -13,7 +13,7 @@ public class Exemplo014 {
         System.out.println(agora);
         // 2019-07-15T00:02:16.076
 
-        LocalDateTime futuro = agora.plusHours(1).plusDays(2).plusSeconds(12);
+        LocalDateTime futuro = agora.plusHours(1).plusDays(2);
 
         System.out.println(futuro);
         // 2019-07-17T01:02:28.076
