@@ -1,4 +1,4 @@
-package aulas.list;
+package aulas.list.set;
 
 import java.util.Iterator;
 import java.util.Queue;

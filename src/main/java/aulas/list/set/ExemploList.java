@@ -1,4 +1,4 @@
-package aulas.list;
+package aulas.list.set;
 
 import javax.xml.transform.sax.SAXSource;
 import java.util.Collections;
