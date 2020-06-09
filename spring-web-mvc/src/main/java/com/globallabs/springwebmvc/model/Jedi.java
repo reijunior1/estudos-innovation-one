@@ -1,7 +1,10 @@
 package com.globallabs.springwebmvc.model;
 
+
 public class Jedi {
+
     private String name;
+
     private String lastname;
 
     public Jedi (final String name, final String lastname) {
